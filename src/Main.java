@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Test");
 
         System.out.println("dobavil commit v master");
+
+        System.out.println("zzz");
     }
 }
